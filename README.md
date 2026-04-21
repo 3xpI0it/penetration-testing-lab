@@ -13,18 +13,19 @@ To develop practical penetration testing skills through controlled lab environme
 ## Focus Areas
 
 - Network scanning and enumeration  
-- Wireless security testing  
-- Basic exploitation techniques  
-- Understanding attack methodologies  
+- Exploitation techniques  
+- Post-exploitation concepts  
+- Understanding attacker methodologies  
 
 ---
 
 ## Repository Structure
 
-Journal/
-Notes/
-Attacks/
-Projects/
+- journal – Daily logs and progress tracking  
+- notes – Concepts, tools, and techniques  
+- labs – Environment setup and configurations  
+- projects – Practical exercises and simulations  
+- tools – Utilities and scripts used during testing  
 
 ---
 
